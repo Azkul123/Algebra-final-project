@@ -1,0 +1,152 @@
+{
+    "plants": [
+        {
+            "id": 1,
+            "name": "Rose",
+            "photo": "images_and_data/plant_pics/rose.jpg",
+            "care": {
+                "moisture": "daily",
+                "light": "bright",
+                "temperature": "warmer",
+                "substrate": "recommended"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Lily",
+            "photo": "images_and_data/plant_pics/lily.jpg",
+            "care": {
+                "moisture": "weekly",
+                "light": "bright",
+                "temperature": "warmer",
+                "substrate": "recommended"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Orchid",
+            "photo": "images_and_data/plant_pics/orchid.jpg",
+            "care": {
+                "moisture": "twice a week",
+                "light": "bright",
+                "temperature": "warmer",
+                "substrate": "recommended"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Fern",
+            "photo": "images_and_data/plant_pics/fern.jpg",
+            "care": {
+                "moisture": "daily",
+                "light": "shady",
+                "temperature": "cooler",
+                "substrate": "recommended"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Cactus",
+            "photo": "images_and_data/plant_pics/cactus.jpg",
+            "care": {
+                "moisture": "monthly",
+                "light": "bright",
+                "temperature": "warmer",
+                "substrate": "recommended"
+            }
+        },
+        {
+            "id": 6,
+            "name": "Succulent",
+            "photo": "images_and_data/plant_pics/succulent.jpg",
+            "care": {
+                "moisture": "weekly",
+                "light": "bright",
+                "temperature": "warmer",
+                "substrate": "recommended"
+            }
+        },
+        {
+            "id": 7,
+            "name": "Bamboo",
+            "photo": "images_and_data/plant_pics/bamboo.jpg",
+            "care": {
+                "moisture": "twice a week",
+                "light": "bright",
+                "temperature": "warmer",
+                "substrate": "recommended"
+            }
+        },
+        {
+            "id": 8,
+            "name": "Sunflower",
+            "photo": "images_and_data/plant_pics/sunflower.jpg",
+            "care": {
+                "moisture": "daily",
+                "light": "bright",
+                "temperature": "warmer",
+                "substrate": "recommended"
+            }
+        },
+        {
+            "id": 9,
+            "name": "Bonsai Tree",
+            "photo": "images_and_data/plant_pics/bonsai.jpg",
+            "care": {
+                "moisture": "weekly",
+                "light": "bright indirect light",
+                "temperature": "moderate",
+                "substrate": "recommended"
+            }
+        },
+        {
+            "id": 10,
+            "name": "Bamboo Palm",
+            "photo": "images_and_data/plant_pics/bamboo_palm.jpg",
+            "care": {
+                "moisture": "twice a week",
+                "light": "bright indirect light",
+                "temperature": "moderate",
+                "substrate": "well-draining soil"
+            }
+        }
+    ],
+    "max_planters": 7,
+    "planters": [
+        {
+            "id": 1,
+            "plant_id": 4,
+            "location": "inside",
+            "temperature": 19,
+            "moisture": "moderate"
+        },
+        {
+            "id": 2,
+            "plant_id": 8,
+            "location": "outside",
+            "temperature": 23.4,
+            "moisture": "optimal"
+        },
+        {
+            "id": 3,
+            "plant_id": 1,
+            "location": "outside",
+            "temperature": 23.4,
+            "moisture": "moderate"
+        },
+        {
+            "id": 4,
+            "plant_id": 9,
+            "location": "inside",
+            "temperature": 22,
+            "moisture": "optimal"
+        },
+        {
+            "id": 5,
+            "plant_id": 6,
+            "location": "inside",
+            "temperature": 20,
+            "moisture": "low"
+        }
+    ]
+}

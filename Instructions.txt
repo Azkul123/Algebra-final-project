@@ -1,0 +1,8 @@
+1. Extract zip datoteku
+2. Open Pyplant - Algebra
+3. Open file in editor and run "window.py"
+
+Login:
+(can also register)
+Username/E-mail: Admin
+Password: 12345

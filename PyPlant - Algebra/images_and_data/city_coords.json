@@ -1,0 +1,29 @@
+{
+    "current_city": "latitude=35.68&longitude=139.76",
+    "cities": {
+        "Berlin": "latitude=52.52&longitude=13.41",
+        "Paris": "latitude=48.85&longitude=2.35",
+        "New York": "latitude=40.71&longitude=-74.01",
+        "Tokyo": "latitude=35.68&longitude=139.76",
+        "Sydney": "latitude=-33.87&longitude=151.21",
+        "Rome": "latitude=41.89&longitude=12.50",
+        "Cairo": "latitude=30.04&longitude=31.24",
+        "Moscow": "latitude=55.75&longitude=37.62",
+        "Rio de Janeiro": "latitude=-22.91&longitude=-43.17",
+        "Dubai": "latitude=25.20&longitude=55.27",
+        "Toronto": "latitude=43.70&longitude=-79.42",
+        "Mumbai": "latitude=19.07&longitude=72.88",
+        "Zagreb": "latitude=45.81&longitude=15.98",
+        "Split": "latitude=43.51&longitude=16.45",
+        "Rijeka": "latitude=45.33&longitude=14.45",
+        "Osijek": "latitude=45.56&longitude=18.68",
+        "Zadar": "latitude=44.12&longitude=15.23",
+        "Pula": "latitude=44.87&longitude=13.85",
+        "Sibenik": "latitude=43.73&longitude=15.90",
+        "Dubrovnik": "latitude=42.65&longitude=18.10",
+        "Varazdin": "latitude=46.30&longitude=16.34",
+        "Karlovac": "latitude=45.49&longitude=15.55",
+        "Vukovar": "latitude=45.34&longitude=18.99",
+        "Sisak": "latitude=45.48&longitude=16.38"
+    }
+}
